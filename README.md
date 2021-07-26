@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rushikesh -> Rajendra Kale
+- 👋 Hi, I’m ... Rushikesh Rajendra Kale
 - 👀 I’m interested in.. Data science and web development
 - 🌱 I’m currently learning ... Angular , (typescript , javascript )
 - 📫 How to reach me ... rushik.rk40@gmail.com / 7350994001
