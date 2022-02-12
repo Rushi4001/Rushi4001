@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ... Rushikesh Rajendra Kale
-- 👀 I’m interested in.. Data science and web development
-- 🌱 I’m currently learning ... Angular , (typescript , javascript )
+- 👀 I’m working as a ..  JAVA developer 
+- 🌱 I’m currently learning ... UNIX/Linux OS, salesforce admin and developer , spring/spring boot framework.
 - 📫 How to reach me ... rushik.rk40@gmail.com / 7350994001
 
 <!---
